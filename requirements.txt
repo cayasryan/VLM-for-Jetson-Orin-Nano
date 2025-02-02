@@ -1,0 +1,6 @@
+gradio
+Pillow
+transformers
+
+# Set up Jetson Orin Nano: https://developer.nvidia.com/embedded/learn/get-started-jetson-orin-nano-devkit
+# Download .whl file for Pytorch based on your Jetpack version here: https://developer.nvidia.com/embedded/downloads#?search=torch
