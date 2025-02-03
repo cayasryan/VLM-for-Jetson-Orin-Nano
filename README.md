@@ -2,6 +2,8 @@
 
 This repository contains a Vision-Language Model (VLM) interface built using Gradio and designed to run on the Jetson Orin Nano.
 
+In this demo, you can capture an image from your webcam and interact with the VLM model by asking questions related to the captured image.
+
 ## Setup Instructions
 
 ### 1. Set up Jetson Orin Nano
